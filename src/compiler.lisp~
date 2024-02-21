@@ -1,2 +1,0 @@
-(defun compile-circuit (circuit)
-  circuit)
