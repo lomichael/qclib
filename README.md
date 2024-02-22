@@ -1,4 +1,6 @@
 # Quantum Library 
+[![justforfunnoreally.dev badge](https://img.shields.io/badge/justforfunnoreally-dev-9ff)](https://justforfunnoreally.dev)
+
 A small quantum library in Common Lisp, done in my free time as a learning project.
 
 ## Loading
