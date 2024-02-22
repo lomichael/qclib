@@ -1,7 +1,7 @@
-# Quantum Library 
+# qclib: Quantum Computing Library 
 [![justforfunnoreally.dev badge](https://img.shields.io/badge/justforfunnoreally-dev-9ff)](https://justforfunnoreally.dev)
 
-A small quantum library in Common Lisp, done in my free time as a learning project.
+A small quantum computing library in Common Lisp, done in my free time as a learning project.
 
 ## Loading
 ```Common Lisp
