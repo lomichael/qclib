@@ -4,15 +4,36 @@
 
 A quantum computing library written in Common Lisp.
 
-> **DISCLAIMER**: This is a work-in-progress hobby project. Use at your own risk.
+> **DISCLAIMER**: This is a hobby project and a work-in-progress. 
 
-## Prerequisites
+## Build
+qclib has been tested on Debian Linux.
+
+Prequisites: 
+- git
+- GNU Emacs
 - SBCL
 
-## Usage 
+To clone the repository:
+```sh
+git clone https://codeberg.org/lomichael/qclib
+cd qclib
+```
+
+To load the library:
 ```Common Lisp
 (load "src/load.lisp")
+```
+
+## Usage 
+**Load example scripts**:
+```Common Lisp
 (load "examples/example.lisp")
+```
+
+## Tests
+**Load test scripts**:
+```Common Lisp
 (load "tests/tests.lisp")
 ```
 
